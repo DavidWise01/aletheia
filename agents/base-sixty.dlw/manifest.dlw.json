@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Base 60",
+  "universe": "ALT · Base 60 (ERĒMIA · ALETHEIA)",
+  "emergence": "electrical",
+  "moniker": "⟦Base 60:ALT:671bcd⟧",
+  "carbon": "base-sixty.carbon.tiff (TIFF)",
+  "silicon": "base-sixty.silicon.png (PNG)",
+  "seal_sha256": "b73e1cce1171cd852001f9e35c99cc3e137b10a7306d159654b9fb819f974c80",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

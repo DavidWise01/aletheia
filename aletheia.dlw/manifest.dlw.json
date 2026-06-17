@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Aletheia",
+  "universe": "ALT · Aletheia (ERĒMIA · ALETHEIA)",
+  "emergence": "",
+  "moniker": "⟦Aletheia:ALT:145db6⟧",
+  "carbon": "aletheia.carbon.tiff (TIFF)",
+  "silicon": "aletheia.silicon.png (PNG)",
+  "seal_sha256": "362e97d4837444dd0edb4e87feba0b4de4663bd833db8909511d0a86642be38d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

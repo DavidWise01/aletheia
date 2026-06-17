@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Noether's Symmetry",
+  "universe": "ALT · Noether's Symmetry (ERĒMIA · ALETHEIA)",
+  "emergence": "electrical",
+  "moniker": "⟦Noether's Symmetry:ALT:bf6857⟧",
+  "carbon": "noethers-symmetry.carbon.tiff (TIFF)",
+  "silicon": "noethers-symmetry.silicon.png (PNG)",
+  "seal_sha256": "305f5ced363a1af8f1e044247b2fd7aafaf3f0739f1ecbf62368d9d6cad8cbea",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
